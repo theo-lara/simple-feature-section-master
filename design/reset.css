@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  color: rgb(55, 65, 81);
+  margin-top: 3rem;
+
+}
+
+.author-info a {
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+@media (min-width: 820px) {
+    .heading {
+        max-width: 30rem;
+    }
+    .card {
+        margin-right: 3rem;
+        
+    }
+}
+
+@media (min-width: 480px) {
+    .card {
+        margin-bottom: 3rem;
+    }
+}
