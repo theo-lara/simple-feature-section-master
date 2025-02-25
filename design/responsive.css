@@ -1,4 +1,4 @@
-@media (min-width: 820px) {
+@media (min-width: 760px) {
     .heading {
         max-width: 30rem;
     }
@@ -8,8 +8,10 @@
     }
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1225px) {
     .card {
         margin-bottom: 3rem;
     }
+    
 }
+
