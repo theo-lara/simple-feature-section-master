@@ -1,11 +1,10 @@
 body {
     background-color: #121826;
     background-image: url('/resources/Background_image.svg');
-    padding: 20px;
+    padding: 2rem;
     display: flex;
     flex-direction: column;
     align-content: center;
-    justify-content: center;
     min-height: 100vh;
     font-family: 'Outfit';
 }
@@ -15,7 +14,6 @@ body {
     text-align: center;
     align-items: center;
     justify-content: center;    
-    min-width: 288px;
 
 
 }
@@ -41,7 +39,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 2rem;
+    margin-top: 2em;
 
 }
 
